@@ -35,6 +35,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-0078D4?style=for-the-badge&logo=none&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scrum/Agile](https://img.shields.io/badge/Scrum/Agile-0E4C92?style=for-the-badge&logo=none&logoColor=white)
 
 ### Operating Systems
