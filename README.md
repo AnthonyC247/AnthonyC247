@@ -4,7 +4,8 @@
 
 ## About me
 - **Computer Science B.S., University of California, Santa Cruz** (Sept. 2022 – June 2026)
-- **HP: Incoming Software Engineer Intern, Houston, Texas** (June. 2025 – September 2025)
+- **HP: Software Engineer Intern, Houston, Texas** (June. 2025 – Present)
+- **HomeCook: Aoftware Engineer Intern, Remote** (Aug 2024 - Feb 2-25)
 - **Sponsors for Educational Opportunity: Tech Developer Intern, Remote** (June 2024 - August 2024)
 -  ⚽️ 🥋I love practicing mixed martial arts and soccer. My favorite team is Real Madrid
 -  📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/anthony-carmona-46538b1b0/)]
