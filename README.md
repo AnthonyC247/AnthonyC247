@@ -4,7 +4,7 @@
 
 ## About me
 - **Computer Science B.S., University of California, Santa Cruz** (Sept. 2022 – June 2026)
-- **Incoming Software Engineer @ ___**
+- **Incoming Software Engineer @ AT&T**
 - **Break Through Tech A.I. Studio Fellow: International Elite Capital** (August 2025 - Present)
 - **HP: Software Engineer Intern, Houston, Texas** (June. 2025 – September. 2025)
 - **HomeCook: Software Engineer Intern, Remote** (Aug 2024 - Feb 2025)
