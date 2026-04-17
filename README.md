@@ -10,6 +10,7 @@
 - **HomeCook: Software Engineer Intern, Remote** (Aug 2024 - Feb 2025)
 - **Sponsors for Educational Opportunity: Tech Developer Intern, Remote** (June 2024 - August 2024)
 -  ⚽️ 🥋I love practicing mixed martial arts and soccer. My favorite team is Real Madrid
+-  🤓 I took a graduate-level course in database systems.
 -  📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/anthony-carmona-46538b1b0/)]
 
 ## 💻🔨 Tech Stack
